@@ -1,0 +1,7 @@
+langchain
+groq
+dotenv
+langchain-groq
+langgraph
+pydantic
+typing
