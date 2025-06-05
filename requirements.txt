@@ -1,5 +1,5 @@
-langchain
-groq
+langchain>=0.1.0
+groq>=0.4.0
 dotenv
 langchain-groq
 langgraph
